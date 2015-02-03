@@ -1,0 +1,9 @@
+Fun with MAN pages
+
+man kerberos (/fubar)
+man route (/BUGS)
+man languagesetup (just read it)
+man tcpdump (/sushi)
+man tunefs (/fish)
+man plutil (/obey)
+
